@@ -1,0 +1,39 @@
+
+body{
+  background-color: black;
+}
+
+h1{
+  text-align: center;
+  color: white;
+}
+
+div.profile{
+  background-image: url('/images/profile.jpg');
+  background-size: 200px 200px;
+  height: 200px;
+  width: 200px;
+  border-radius: 100px;
+  margin:auto;
+}
+div.links{
+  text-align: center;
+  margin: 40px;
+
+}
+.links img{
+  border: 1px solid white;
+  padding: 5px;
+  border-radius: 5px
+}
+.links a{
+  display: inline-block;
+  width: 107px;
+}
+
+img.github{
+  background: white;
+  padding-left: 10px;
+  padding-right: 10px;
+
+}

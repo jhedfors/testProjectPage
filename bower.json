@@ -1,0 +1,20 @@
+{
+  "name": "Portfolio",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Jeff Hedfors <git.j@hedfors.net>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/jhedfors/profile",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.0.0"
+  }
+}
